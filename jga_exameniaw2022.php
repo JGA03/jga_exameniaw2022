@@ -1,4 +1,7 @@
 <html>
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+ </head>
  <body>
   <h1>Javier García</h1>
   <h2>25/10/2022</h2>
